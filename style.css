@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.container {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+#p1 {
+    color: darkgreen;
+}
+
+rect {
+    fill: red;
+}
